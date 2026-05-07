@@ -1,0 +1,25 @@
+system/http.go
+  2ae7bb735b0234b1 30,50,219,224-228
+resource/http.go
+  2ae7bb735b0234b1 81
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "54592bc8d0c9094dd301607e8a3fc9f3493b919c",
+  "prompts": {
+    "2ae7bb735b0234b1": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_1fe469b25ffeYw9bh7JftKl4de",
+        "model": "cloudflare-workers-ai/@cf/moonshotai/kimi-k2.6"
+      },
+      "human_author": "Vasilii Alferov",
+      "messages": [],
+      "total_additions": 11,
+      "total_deletions": 0,
+      "accepted_lines": 9,
+      "overriden_lines": 0
+    }
+  }
+}
