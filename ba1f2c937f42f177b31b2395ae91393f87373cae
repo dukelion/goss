@@ -1,0 +1,27 @@
+catalog-info.yaml
+  2ae7bb735b0234b1 1-33
+cfsetup.yaml
+  2ae7bb735b0234b1 1-11
+Makefile
+  2ae7bb735b0234b1 1-92
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "ba1f2c937f42f177b31b2395ae91393f87373cae",
+  "prompts": {
+    "2ae7bb735b0234b1": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_1fe469b25ffeYw9bh7JftKl4de",
+        "model": "cloudflare-workers-ai/@cf/moonshotai/kimi-k2.6"
+      },
+      "human_author": "Vasilii Alferov",
+      "messages": [],
+      "total_additions": 136,
+      "total_deletions": 0,
+      "accepted_lines": 136,
+      "overriden_lines": 0
+    }
+  }
+}
