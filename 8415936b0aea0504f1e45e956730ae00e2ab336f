@@ -1,0 +1,35 @@
+debian/copyright
+  2ae7bb735b0234b1 1-23
+debian/control
+  2ae7bb735b0234b1 1-23
+debian/changelog
+  2ae7bb735b0234b1 1-11
+debian/source/format
+  2ae7bb735b0234b1 1
+debian/rules
+  2ae7bb735b0234b1 1-10
+Makefile
+  2ae7bb735b0234b1 10-12,32-38,41-45,48,63
+cfsetup.yaml
+  2ae7bb735b0234b1 6-8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "8415936b0aea0504f1e45e956730ae00e2ab336f",
+  "prompts": {
+    "2ae7bb735b0234b1": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_1fe469b25ffeYw9bh7JftKl4de",
+        "model": "cloudflare-workers-ai/@cf/moonshotai/kimi-k2.6"
+      },
+      "human_author": "Vasilii Alferov",
+      "messages": [],
+      "total_additions": 92,
+      "total_deletions": 51,
+      "accepted_lines": 88,
+      "overriden_lines": 0
+    }
+  }
+}
