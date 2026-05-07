@@ -1,0 +1,33 @@
+.golangci.yaml
+  2ae7bb735b0234b1 1,3,9-67
+.gitignore
+  2ae7bb735b0234b1 21-23
+.gitlab-ci.yml
+  2ae7bb735b0234b1 5,16,29-34,65-88
+debian/changelog
+  2ae7bb735b0234b1 4-6
+Makefile
+  2ae7bb735b0234b1 21,27
+AGENTS.md
+  2ae7bb735b0234b1 1-105
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "6f4714ee13f618fade0bd8a6be1439f2f128b259",
+  "prompts": {
+    "2ae7bb735b0234b1": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_1fe469b25ffeYw9bh7JftKl4de",
+        "model": "cloudflare-workers-ai/@cf/moonshotai/kimi-k2.6"
+      },
+      "human_author": "Vasilii Alferov",
+      "messages": [],
+      "total_additions": 206,
+      "total_deletions": 19,
+      "accepted_lines": 1725,
+      "overriden_lines": 0
+    }
+  }
+}
