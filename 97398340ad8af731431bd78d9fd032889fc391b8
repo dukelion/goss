@@ -1,0 +1,621 @@
+install.sh
+  2ae7bb735b0234b1 1-50
+system/file_windows.go
+  2ae7bb735b0234b1 1-24
+integration-tests/goss/darwin/commands/validate-input.yaml
+  2ae7bb735b0234b1 1-4
+testdata/matching_basic.yaml
+  2ae7bb735b0234b1 1-130
+.github/workflows/docker-integration-tests.yaml
+  2ae7bb735b0234b1 1-87
+integration-tests/goss/windows/tests/kernel-param.na-goss.yaml
+  2ae7bb735b0234b1 1-6
+integration-tests/test.sh
+  2ae7bb735b0234b1 1-72
+.github/dependabot.yml
+  2ae7bb735b0234b1 1-26
+integration-tests/goss/centos7/goss-expected.yaml
+  2ae7bb735b0234b1 1-177
+integration-tests/goss/wheezy/goss-expected.yaml
+  2ae7bb735b0234b1 1-177
+.github/CONTRIBUTING.md
+  2ae7bb735b0234b1 1-64
+integration-tests/goss/generate_goss.sh
+  2ae7bb735b0234b1 1-90
+docs/gossfile.md
+  2ae7bb735b0234b1 1-1049
+system/command_windows.go
+  2ae7bb735b0234b1 1-12
+integration-tests/goss/hellogoss.txt
+  2ae7bb735b0234b1 1
+system/command_windows_test.go
+  2ae7bb735b0234b1 1-27
+system/http.go
+  2ae7bb735b0234b1 1-238
+.travis.yml
+  2ae7bb735b0234b1 1-60
+examples/goss_awesome_gomega.yaml
+  2ae7bb735b0234b1 1-138
+outputs/outputs.go
+  2ae7bb735b0234b1 1-315
+integration-tests/goss/windows/tests/dns.goss.yaml
+  2ae7bb735b0234b1 1-8
+.github/ISSUE_TEMPLATE/question.md
+  2ae7bb735b0234b1 1-12
+testdata/passing.goss.yaml
+  2ae7bb735b0234b1 1-9
+resource/service.go
+  2ae7bb735b0234b1 1-83
+testdata/failing.goss.yaml
+  2ae7bb735b0234b1 1-9
+resource/user.go
+  2ae7bb735b0234b1 1-116
+integration-tests/goss/darwin/commands/add.goss.yaml
+  2ae7bb735b0234b1 1-10
+matchers/contain_elements_matcher.go
+  2ae7bb735b0234b1 1-50
+outputs/rspecish.go
+  2ae7bb735b0234b1 1-79
+testdata/out_matching_transformers.0.tap
+  2ae7bb735b0234b1 1-13
+examples/test.txt
+  2ae7bb735b0234b1 1-2
+docs/vars.yaml
+  2ae7bb735b0234b1 1-5
+docs/style.css
+  2ae7bb735b0234b1 1-15
+resource/command.go
+  2ae7bb735b0234b1 1-121
+resource/interface.go
+  2ae7bb735b0234b1 1-89
+.github/ISSUE_TEMPLATE/feature_request.md
+  2ae7bb735b0234b1 1-28
+system/command_posix_test.go
+  2ae7bb735b0234b1 1-19
+integration-tests/Dockerfile_alpine3
+  2ae7bb735b0234b1 1-11
+Dockerfile
+  2ae7bb735b0234b1 1-19
+extras/dcgoss/README.md
+  2ae7bb735b0234b1 1-132
+integration-tests/goss/darwin/tests/file.goss.yaml
+  2ae7bb735b0234b1 1-14
+docs/containers/docker-compose.md
+  2ae7bb735b0234b1 1-2
+integration-tests/goss/darwin/commands/autoadd.goss.yaml
+  2ae7bb735b0234b1 1-14
+integration-tests/goss/centos7/goss.yaml
+  2ae7bb735b0234b1 1-33
+store.go
+  2ae7bb735b0234b1 1-318
+.github/workflows/docs.yaml
+  2ae7bb735b0234b1 1-50
+integration-tests/goss/centos7/goss-aa-expected.yaml
+  2ae7bb735b0234b1 1-17
+integration-tests/goss/goss-shared.yaml
+  2ae7bb735b0234b1 1-295
+serve.go
+  2ae7bb735b0234b1 1-194
+resource/process.go
+  2ae7bb735b0234b1 1-68
+mkdocs.yml
+  2ae7bb735b0234b1 1-101
+.github/workflows/release.yaml
+  2ae7bb735b0234b1 1-51
+integration-tests/goss/windows/tests/port.goss.yaml
+  2ae7bb735b0234b1 1-9
+testdata/out_matching_basic_failing.1.documentation
+  2ae7bb735b0234b1 1-459
+testdata/out_matching_basic.0.nagios
+  2ae7bb735b0234b1 1
+integration-tests/Dockerfile_centos7
+  2ae7bb735b0234b1 1-22
+testdata/out_matching_transformers.0.documentation
+  2ae7bb735b0234b1 1-16
+testdata/out_matching_transformers_failing.1.documentation
+  2ae7bb735b0234b1 1-368
+outputs/nagios.go
+  2ae7bb735b0234b1 1-77
+extras/kgoss/README.md
+  2ae7bb735b0234b1 1-142
+matchers/match_regexp_matcher.go
+  2ae7bb735b0234b1 1-42
+system/package_test.go
+  2ae7bb735b0234b1 1-15
+resource/group.go
+  2ae7bb735b0234b1 1-79
+integration-tests/goss/darwin/tests/gossfile.goss.yaml
+  2ae7bb735b0234b1 1-19
+integration-tests/Dockerfile_alpine3.md5
+  2ae7bb735b0234b1 1
+resource/file.go
+  2ae7bb735b0234b1 1-153
+system/mount.go
+  2ae7bb735b0234b1 1-159
+system/service_systemd.go
+  2ae7bb735b0234b1 1-92
+matchers/have_len_matcher.go
+  2ae7bb735b0234b1 1-41
+serve_test.go
+  2ae7bb735b0234b1 1-315
+matchers/have_prefix_matcher.go
+  2ae7bb735b0234b1 1-42
+matchers/have_suffix_matcher.go
+  2ae7bb735b0234b1 1-42
+system/user_group_unix_test.go
+  2ae7bb735b0234b1 1-44
+system/group.go
+  2ae7bb735b0234b1 1-49
+release-build.sh
+  2ae7bb735b0234b1 1-39
+integration-tests/goss/darwin/tests/command.goss.yaml
+  2ae7bb735b0234b1 1-9
+ci/go-fmt.sh
+  2ae7bb735b0234b1 1-24
+development/build_images.sh
+  2ae7bb735b0234b1 1-28
+integration-tests/goss/goss-serve.yaml
+  2ae7bb735b0234b1 1-8
+matchers/with_safe_transform.go
+  2ae7bb735b0234b1 1-82
+docs/license.md
+  2ae7bb735b0234b1 1-2
+outputs/prometheus.go
+  2ae7bb735b0234b1 1-138
+resource/package.go
+  2ae7bb735b0234b1 1-78
+integration-tests/Find-AvailablePort.ps1
+  2ae7bb735b0234b1 1-20
+matchers/contain_element_matcher.go
+  2ae7bb735b0234b1 1-41
+outputs/json.go
+  2ae7bb735b0234b1 1-103
+integration-tests/goss/wheezy/goss.yaml
+  2ae7bb735b0234b1 1-34
+integration-tests/goss/rockylinux9/goss-expected.yaml
+  2ae7bb735b0234b1 1-177
+.gitignore
+  2ae7bb735b0234b1 1-25
+testdata/out_matching_transformers_failing.1.tap
+  2ae7bb735b0234b1 1-19
+integration-tests/goss/windows/tests/package.goss.yaml
+  2ae7bb735b0234b1 1-16
+system/addr.go
+  2ae7bb735b0234b1 1-70
+outputs/prometheus_test.go
+  2ae7bb735b0234b1 1-577
+Makefile
+  2ae7bb735b0234b1 3,14,17,20-24,28,30-32,34,36,38,40
+examples/readme.md
+  2ae7bb735b0234b1 1-3
+system/dns.go
+  2ae7bb735b0234b1 1-348
+integration-tests/goss/wheezy/goss-aa-expected.yaml
+  2ae7bb735b0234b1 1-17
+system/log.go
+  2ae7bb735b0234b1 1-16
+integration-tests/Dockerfile_centos7.md5
+  2ae7bb735b0234b1 1
+.github/ISSUE_TEMPLATE/bug_report.md
+  2ae7bb735b0234b1 1-25
+system/system_test.go
+  2ae7bb735b0234b1 1-59
+README.md
+  2ae7bb735b0234b1 1-348
+integration-tests/goss/darwin/tests/process.goss.yaml
+  2ae7bb735b0234b1 1-4
+development/debian/.gitignore
+  2ae7bb735b0234b1 1
+system/package.go
+  2ae7bb735b0234b1 1-37
+util/config.go
+  2ae7bb735b0234b1 1-303
+util/config_test.go
+  2ae7bb735b0234b1 1-51
+docs/goss.yaml
+  2ae7bb735b0234b1 1-218
+system/command_posix.go
+  2ae7bb735b0234b1 1-12
+system/kernel_param.go
+  2ae7bb735b0234b1 1-43
+system/gossfile.go
+  2ae7bb735b0234b1 1-29
+resource/matching.go
+  2ae7bb735b0234b1 1-130
+resource/validate.go
+  2ae7bb735b0234b1 1-217
+development/debian/Vagrantfile
+  2ae7bb735b0234b1 1-71
+matchers/contain_substring_matcher.go
+  2ae7bb735b0234b1 1-42
+.mr-description.md
+  2ae7bb735b0234b1 1-24
+resource/gomega.go
+  2ae7bb735b0234b1 1-195
+system/process.go
+  2ae7bb735b0234b1 1-70
+integration-tests/goss/windows/tests/gossfile.goss.yaml
+  2ae7bb735b0234b1 1-19
+matchers/consist_of.go
+  2ae7bb735b0234b1 1-52
+integration-tests/run-validate-tests.sh
+  2ae7bb735b0234b1 1-33
+matchers/be_numerically_matcher.go
+  2ae7bb735b0234b1 1-68
+integration-tests/goss/darwin/tests/interface.goss.yaml
+  2ae7bb735b0234b1 1-10
+integration-tests/goss/windows/tests/user.goss.yaml
+  2ae7bb735b0234b1 1-13
+extras/dcgoss/docker-compose.yml
+  2ae7bb735b0234b1 1-28
+system/user_unsupported.go
+  2ae7bb735b0234b1 1-12
+extras/dgoss/dgoss
+  2ae7bb735b0234b1 1-149
+matchers/not.go
+  2ae7bb735b0234b1 1-36
+integration-tests/goss/darwin/tests/http.goss.yaml
+  2ae7bb735b0234b1 1-15
+docs/rendered_goss.yaml
+  2ae7bb735b0234b1 1-170
+outputs/outputs_test.go
+  2ae7bb735b0234b1 1-58
+system/package_alpine.go
+  2ae7bb735b0234b1 1-62
+ci/lib/log.sh
+  2ae7bb735b0234b1 1-52
+testdata/matching_transformers_failing.yaml
+  2ae7bb735b0234b1 1-162
+docs/.pages
+  2ae7bb735b0234b1 1-13
+docs/quickstart.md
+  2ae7bb735b0234b1 1-3
+docs/cli.md
+  2ae7bb735b0234b1 1-375
+docs/myapp_gossfile.yaml
+  2ae7bb735b0234b1 1-2
+integration-tests/goss/testdata/static-file.txt
+  2ae7bb735b0234b1 1
+extras/dcgoss/dcgoss
+  2ae7bb735b0234b1 1-130
+system/interface.go
+  2ae7bb735b0234b1 1-87
+util/command_windows.go
+  2ae7bb735b0234b1 1-30
+integration-tests/goss/rockylinux9/goss-expected-q.yaml
+  2ae7bb735b0234b1 1-127
+testdata/out_matching_transformers_failing.2.nagios
+  2ae7bb735b0234b1 1
+outputs/silent.go
+  2ae7bb735b0234b1 1-33
+docs/containers/docker.md
+  2ae7bb735b0234b1 1-2
+matchers/matchers.go
+  2ae7bb735b0234b1 1-49
+integration-tests/goss/darwin/tests/dns.goss.yaml
+  2ae7bb735b0234b1 1-8
+system/package_rpm.go
+  2ae7bb735b0234b1 1-53
+matchers/equal_matcher.go
+  2ae7bb735b0234b1 1-39
+resource/gomega_test.go
+  2ae7bb735b0234b1 1-164
+template.go
+  2ae7bb735b0234b1 1-113
+testdata/out_matching_basic_failing.2.nagios
+  2ae7bb735b0234b1 1
+development/README.md
+  2ae7bb735b0234b1 1-3
+system/user_group_unix.go
+  2ae7bb735b0234b1 1-73
+.markdownlint.yaml
+  2ae7bb735b0234b1 1-41
+docs/containers/kubernetes.md
+  2ae7bb735b0234b1 1-2
+ci/build.sh
+  2ae7bb735b0234b1 1-13
+integration-tests/goss/goss-wait.yaml
+  2ae7bb735b0234b1 1-8
+integration-tests/goss/trusty/goss-expected.yaml
+  2ae7bb735b0234b1 1-177
+integration-tests/goss/windows/tests/command.goss.yaml
+  2ae7bb735b0234b1 1-30
+matchers/type_conversion.go
+  2ae7bb735b0234b1 1-143
+matchers/have_patterns.go
+  2ae7bb735b0234b1 1-271
+system/port.go
+  2ae7bb735b0234b1 1-108
+testdata/matching_basic_failing.yaml
+  2ae7bb735b0234b1 1-197
+testdata/out_matching_transformers_failing.1.rspecish
+  2ae7bb735b0234b1 1-196
+cmd/goss/goss.go
+  2ae7bb735b0234b1 1-441
+integration-tests/goss/windows/tests/addr.goss.yaml
+  2ae7bb735b0234b1 1-10
+resource/kernel_param.go
+  2ae7bb735b0234b1 1-70
+.github/workflows/docker-goss.yaml
+  2ae7bb735b0234b1 1-110
+integration-tests/goss/alpine3/goss-aa-expected.yaml
+  2ae7bb735b0234b1 1-9
+system/service.go
+  2ae7bb735b0234b1 1-15
+integration-tests/run-serve-tests.sh
+  2ae7bb735b0234b1 1-104
+integration-tests/goss/vars.yaml
+  2ae7bb735b0234b1 1-35
+matcher_test.go
+  2ae7bb735b0234b1 1-89
+docs/container_image.md
+  2ae7bb735b0234b1 1-53
+testdata/out_matching_basic.0.documentation
+  2ae7bb735b0234b1 1-24
+docs/installation.md
+  2ae7bb735b0234b1 1-3
+util/command.go
+  2ae7bb735b0234b1 1-53
+integration-tests/goss/darwin/tests/kernel-param.na-goss.yaml
+  2ae7bb735b0234b1 1-7
+testdata/matching_transformers.yaml
+  2ae7bb735b0234b1 1-129
+.gitlab-ci.yml
+  2ae7bb735b0234b1 1-64
+integration-tests/goss/centos7/goss-expected-q.yaml
+  2ae7bb735b0234b1 1-127
+integration-tests/goss/darwin/tests/user.goss.yaml
+  2ae7bb735b0234b1 1-13
+resource/port.go
+  2ae7bb735b0234b1 1-78
+integration-tests/goss/rockylinux9/goss.yaml
+  2ae7bb735b0234b1 1-33
+resource/validate_test.go
+  2ae7bb735b0234b1 1-169
+integration-tests/goss/darwin/tests/group.goss.yaml
+  2ae7bb735b0234b1 1-8
+integration-tests/goss/windows/commands/autoadd.goss.yaml
+  2ae7bb735b0234b1 1-13
+integration-tests/goss/windows/tests/mount.goss.yaml
+  2ae7bb735b0234b1 1-12
+resource/dns.go
+  2ae7bb735b0234b1 1-100
+docs/index.md
+  2ae7bb735b0234b1 1-4
+integration-tests/goss/goss-dummy.yaml
+  2ae7bb735b0234b1 1-8
+integration-tests/goss/windows/tests/interface.goss.yaml
+  2ae7bb735b0234b1 1-13
+resource/mount.go
+  2ae7bb735b0234b1 1-118
+docs/migrations.md
+  2ae7bb735b0234b1 1-66
+novendor.sh
+  2ae7bb735b0234b1 1-22
+go.mod
+  2ae7bb735b0234b1 1-61
+integration-tests/goss/darwin/tests/service.goss.yaml
+  2ae7bb735b0234b1 1-8
+matchers/or.go
+  2ae7bb735b0234b1 1-52
+integration-tests/goss/darwin/tests/addr.goss.yaml
+  2ae7bb735b0234b1 1-11
+.github/workflows/golangci.yaml
+  2ae7bb735b0234b1 1-67
+.github/CODEOWNERS
+  2ae7bb735b0234b1 1
+integration-tests/goss/windows/commands/help.goss.yaml
+  2ae7bb735b0234b1 1-9
+integration-tests/Dockerfile_rockylinux9
+  2ae7bb735b0234b1 1-25
+outputs/tap.go
+  2ae7bb735b0234b1 1-60
+matchers/have_key_matcher.go
+  2ae7bb735b0234b1 1-41
+integration-tests/goss/windows/commands/add.goss.yaml
+  2ae7bb735b0234b1 1-10
+docs/changelog.md
+  2ae7bb735b0234b1 1-4
+docs/platforms.md
+  2ae7bb735b0234b1 1-174
+integration-tests/goss/darwin/tests/port.goss.yaml
+  2ae7bb735b0234b1 1-9
+integration-tests/run-tests-alpha.sh
+  2ae7bb735b0234b1 1-29
+system/file.go
+  2ae7bb735b0234b1 1-252
+testdata/out_matching_basic.0.tap
+  2ae7bb735b0234b1 1-17
+goss_test.go
+  2ae7bb735b0234b1 1-155
+system/system.go
+  2ae7bb735b0234b1 1-227
+outputs/junit.go
+  2ae7bb735b0234b1 1-100
+integration-tests/goss/alpine3/goss-expected.yaml
+  2ae7bb735b0234b1 1-171
+.github/stale.yml.disabled
+  2ae7bb735b0234b1 1-16
+system/service_upstart.go
+  2ae7bb735b0234b1 1-84
+integration-tests/Dockerfile_arch
+  2ae7bb735b0234b1 1-6
+system/package_pacman.go
+  2ae7bb735b0234b1 1-56
+logs.go
+  2ae7bb735b0234b1 1-41
+goss_config.go
+  2ae7bb735b0234b1 1-180
+.golangci.yaml
+  2ae7bb735b0234b1 1-16
+LICENSE
+  2ae7bb735b0234b1 1-201
+integration-tests/goss/darwin/commands/validate.goss.yaml
+  2ae7bb735b0234b1 1-12
+integration-tests/goss/windows/tests/service.goss.yaml
+  2ae7bb735b0234b1 1-8
+integration-tests/goss/alpine3/goss.yaml
+  2ae7bb735b0234b1 1-34
+system/dns_test.go
+  2ae7bb735b0234b1 1-25
+integration-tests/goss/windows/tests/file.goss.yaml
+  2ae7bb735b0234b1 1-14
+integration-tests/goss/trusty/goss-expected-q.yaml
+  2ae7bb735b0234b1 1-127
+scripts/build-deb.sh
+  2ae7bb735b0234b1 1-35
+ci/go-test.sh
+  2ae7bb735b0234b1 1-10
+ci/lib/setup.sh
+  2ae7bb735b0234b1 1-81
+matchers/semver_constraint.go
+  2ae7bb735b0234b1 1-128
+integration-tests/Dockerfile_wheezy.md5
+  2ae7bb735b0234b1 1
+integration-tests/Dockerfile_trusty
+  2ae7bb735b0234b1 1-14
+integration-tests/goss/windows/tests/process.goss.yaml
+  2ae7bb735b0234b1 1-8
+development/push_images.sh
+  2ae7bb735b0234b1 1-19
+resource/resource_list.go
+  2ae7bb735b0234b1 1-1531
+.readthedocs.yaml
+  2ae7bb735b0234b1 1-19
+integration-tests/Dockerfile_arch.md5
+  2ae7bb735b0234b1 1
+util/build.go
+  2ae7bb735b0234b1 1-3
+integration-tests/goss/arch/goss.yaml
+  2ae7bb735b0234b1 1-22
+integration-tests/goss/wheezy/goss-expected-q.yaml
+  2ae7bb735b0234b1 1-127
+integration-tests/goss/darwin/commands/help.goss.yaml
+  2ae7bb735b0234b1 1-9
+store_test.go
+  2ae7bb735b0234b1 1-238
+testdata/out_matching_basic_failing.1.tap
+  2ae7bb735b0234b1 1-28
+examples/goss.yaml
+  2ae7bb735b0234b1 1-25
+.editorconfig
+  2ae7bb735b0234b1 1-18
+.github/workflows/yamllint.yaml
+  2ae7bb735b0234b1 1-17
+system/file_posix.go
+  2ae7bb735b0234b1 1-95
+testdata/out_matching_transformers.0.rspecish
+  2ae7bb735b0234b1 1-4
+.github/workflows/trivy-schedule.yaml
+  2ae7bb735b0234b1 1-27
+integration-tests/goss/trusty/goss.yaml
+  2ae7bb735b0234b1 1-34
+system/user_group_windows.go
+  2ae7bb735b0234b1 1-31
+.github/workflows/preview-docs.yaml
+  2ae7bb735b0234b1 1-23
+system/mount_posix.go
+  2ae7bb735b0234b1 1-22
+docs/contributing.md
+  2ae7bb735b0234b1 1-2
+validate.go
+  2ae7bb735b0234b1 1-195
+integration-tests/Dockerfile_trusty.md5
+  2ae7bb735b0234b1 1
+outputs/traces.go
+  2ae7bb735b0234b1 1-34
+testdata/out_matching_transformers.0.nagios
+  2ae7bb735b0234b1 1
+system/mount_test.go
+  2ae7bb735b0234b1 1-21
+add.go
+  2ae7bb735b0234b1 1-203
+outputs/documentation.go
+  2ae7bb735b0234b1 1-73
+system/service_init.go
+  2ae7bb735b0234b1 1-112
+integration-tests/goss/windows/commands/validate-input.yaml
+  2ae7bb735b0234b1 1-4
+system/command.go
+  2ae7bb735b0234b1 1-112
+resource/addr.go
+  2ae7bb735b0234b1 1-80
+system/package_deb.go
+  2ae7bb735b0234b1 1-62
+extras/kgoss/kgoss
+  2ae7bb735b0234b1 1-283
+integration-tests/goss/windows/tests/group.goss.yaml
+  2ae7bb735b0234b1 1-6
+resource/gossfile.go
+  2ae7bb735b0234b1 1-52
+integration-tests/goss/darwin/tests/mount.goss.yaml
+  2ae7bb735b0234b1 1-13
+docs/schema.yaml
+  2ae7bb735b0234b1 1-821
+integration-tests/goss/rockylinux9/goss-aa-expected.yaml
+  2ae7bb735b0234b1 1-17
+docs/requirements.txt
+  2ae7bb735b0234b1 1-6
+system/user_unix.go
+  2ae7bb735b0234b1 1-39
+integration-tests/goss/trusty/goss-aa-expected.yaml
+  2ae7bb735b0234b1 1-17
+testdata/out_matching_basic_failing.1.rspecish
+  2ae7bb735b0234b1 1-246
+.github/pull_request_template.md
+  2ae7bb735b0234b1 1-26
+extras/dgoss/README.md
+  2ae7bb735b0234b1 1-169
+integration-tests/Dockerfile_wheezy
+  2ae7bb735b0234b1 1-13
+matchers/semver_constraint_test.go
+  2ae7bb735b0234b1 1-358
+system/user.go
+  2ae7bb735b0234b1 1-76
+testdata/out_matching_basic.0.rspecish
+  2ae7bb735b0234b1 1-8
+integration-tests/goss/alpine3/goss-expected-q.yaml
+  2ae7bb735b0234b1 1-127
+integration-tests/goss/windows/commands/validate.goss.yaml
+  2ae7bb735b0234b1 1-12
+system/mount_windows.go
+  2ae7bb735b0234b1 1-10
+.yamllint
+  2ae7bb735b0234b1 1-27
+matchers/and.go
+  2ae7bb735b0234b1 1-50
+outputs/structured.go
+  2ae7bb735b0234b1 1-101
+resource/resource.go
+  2ae7bb735b0234b1 1-84
+resource/resource_list_genny.go
+  2ae7bb735b0234b1 1-125
+resource/http.go
+  2ae7bb735b0234b1 1-115
+integration-tests/goss/windows/tests/http.goss.yaml
+  2ae7bb735b0234b1 1-15
+integration-tests/goss/darwin/tests/package.goss.yaml
+  2ae7bb735b0234b1 1-15
+integration-tests/goss/goss-service.yaml
+  2ae7bb735b0234b1 1-20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "97398340ad8af731431bd78d9fd032889fc391b8",
+  "prompts": {
+    "2ae7bb735b0234b1": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_1fe469b25ffeYw9bh7JftKl4de",
+        "model": "cloudflare-workers-ai/@cf/moonshotai/kimi-k2.6"
+      },
+      "human_author": "Vasilii Alferov",
+      "messages": [],
+      "total_additions": 24770,
+      "total_deletions": 181,
+      "accepted_lines": 24765,
+      "overriden_lines": 0
+    }
+  }
+}
