@@ -1,0 +1,25 @@
+AGENTS.md
+  2ae7bb735b0234b1 1-91
+.gitlab-ci.yml
+  2ae7bb735b0234b1 5,16,29-34,65-84
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "e106fc8aef8beecd91732b56321fd4a5caef69bb",
+  "prompts": {
+    "2ae7bb735b0234b1": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_1fe469b25ffeYw9bh7JftKl4de",
+        "model": "cloudflare-workers-ai/@cf/moonshotai/kimi-k2.6"
+      },
+      "human_author": "Vasilii Alferov",
+      "messages": [],
+      "total_additions": 1645,
+      "total_deletions": 120,
+      "accepted_lines": 1554,
+      "overriden_lines": 0
+    }
+  }
+}
