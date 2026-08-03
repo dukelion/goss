@@ -1,0 +1,21 @@
+Makefile
+  s_abc1d42d97b428::t_e3343fd295112f 27
+ci/go-test.sh
+  s_abc1d42d97b428::t_e3343fd295112f 6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "5de845e7ee4e370790fefae04af72ab862ca4bfb",
+  "prompts": {},
+  "sessions": {
+    "s_abc1d42d97b428": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0385efb3affenNm6AfUOnfZgeF",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Vasilii Alferov <vasilii@cloudflare.com>"
+    }
+  }
+}
