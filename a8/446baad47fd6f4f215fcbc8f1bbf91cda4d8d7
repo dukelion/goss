@@ -1,0 +1,25 @@
+docs/cli.md
+  s_abc1d42d97b428::t_f46865cecaca25 65-81
+logs.go
+  s_abc1d42d97b428::t_4a525d44c0222f 16-29,33,35,37,39,42
+logs_test.go
+  s_abc1d42d97b428::t_b9ed7db18765d3 1-105
+serve.go
+  s_abc1d42d97b428::t_8f1e28b96f99d8 20-25,112
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "a8446baad47fd6f4f215fcbc8f1bbf91cda4d8d7",
+  "prompts": {},
+  "sessions": {
+    "s_abc1d42d97b428": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0385efb3affenNm6AfUOnfZgeF",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Vasilii Alferov <vasilii@cloudflare.com>"
+    }
+  }
+}
