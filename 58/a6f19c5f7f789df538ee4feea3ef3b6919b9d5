@@ -1,0 +1,22 @@
+serve_test.go
+  s_34b7386a934e51::t_7bff3b40e7eee0 78
+  s_34b7386a934e51::t_3dd6b638287b3d 17-20
+serve_concurrency_test.go
+  s_34b7386a934e51::t_ec26967bd5858a 19-21
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "58a6f19c5f7f789df538ee4feea3ef3b6919b9d5",
+  "prompts": {},
+  "sessions": {
+    "s_34b7386a934e51": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_031bfb914ffeofqfslGeoZJ0QF",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Vasilii Alferov <vasilii@cloudflare.com>"
+    }
+  }
+}
