@@ -1,0 +1,47 @@
+outputs/json.go
+  s_cf9d9173bc809e::t_2d9516c8c0e067 25-26,50,52,89-91,93,97
+system/log.go
+  s_cf9d9173bc809e::t_2d9516c8c0e067 5-13,16-21,25-31
+system/command.go
+  s_cf9d9173bc809e::t_2d9516c8c0e067 8,25,38,60-64
+outputs/traces.go
+  s_cf9d9173bc809e::t_2d9516c8c0e067 4,7,10-39,41,43-44
+add.go
+  s_cf9d9173bc809e::t_2d9516c8c0e067 35,130
+outputs/logging_test.go
+  s_cf9d9173bc809e::t_e410a594473e20 185-186,229
+  s_cf9d9173bc809e::t_2d9516c8c0e067 1-184,187-228,230-271
+propagation_test.go
+  s_cf9d9173bc809e::t_e410a594473e20 38-40,199-201
+  s_cf9d9173bc809e::t_2d9516c8c0e067 1-37,41-198,202-280
+outputs/exit_code_test.go
+  s_cf9d9173bc809e::t_2d9516c8c0e067 1-12,16-66
+  s_cf9d9173bc809e::t_e410a594473e20 13-15
+serve_matrix_test.go
+  s_cf9d9173bc809e::t_2d9516c8c0e067 1-78
+outputs/rspecish.go
+  s_cf9d9173bc809e::t_2d9516c8c0e067 21-22,45,48,53,72-77,79-80,82-89
+validate.go
+  s_cf9d9173bc809e::t_2d9516c8c0e067 103,130,133,136,164
+system/log_test.go
+  s_cf9d9173bc809e::t_e410a594473e20 53-55
+  s_cf9d9173bc809e::t_2d9516c8c0e067 1-52,56-148
+serve.go
+  s_cf9d9173bc809e::t_2d9516c8c0e067 148
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "c1a2126f672c02f5364251a7b0d89db17b5a99e8",
+  "prompts": {},
+  "sessions": {
+    "s_cf9d9173bc809e": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ffb3dcf68ffe2yXnXm1VRyTmFk",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Vasilii Alferov <vasilii@cloudflare.com>"
+    }
+  }
+}
