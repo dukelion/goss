@@ -1,0 +1,41 @@
+docs_test.go
+  s_cf9d9173bc809e::t_a0d415d1afca1b 1-101
+cmd/goss/flags_test.go
+  s_cf9d9173bc809e::t_f82be06ebff37a 1-19,43-120
+  s_cf9d9173bc809e::t_1dce5f2d3889b9 20-42
+.golangci.yaml
+  s_cf9d9173bc809e::t_d77049fe1d8666 7
+  s_cf9d9173bc809e::t_bc03160880bf7f 53-59
+  s_cf9d9173bc809e::t_d8f5d16f0dd417 24-40
+seams_test.go
+  s_cf9d9173bc809e::t_2a842be4276317 69-71,75-76,93-95
+  s_cf9d9173bc809e::t_2b0e81f721074c 1-23,38-68,72-74,77-92,96-167
+  s_cf9d9173bc809e::t_ecb320d1207769 24-30
+  s_cf9d9173bc809e::t_8145413af0dad7 31-37
+docs/logging.md
+  s_cf9d9173bc809e::t_a76817240fcd6c 1-24,26-179
+  s_cf9d9173bc809e::t_c741ac73a8bdf5 25
+docs/migrations.md
+  s_cf9d9173bc809e::t_16f2e3b66fd876 3-15
+docs/cli.md
+  s_cf9d9173bc809e::t_0dfe266b2ce14e 66-69,83-84
+  s_cf9d9173bc809e::t_76736b438d6645 85
+cmd/goss/logging_test.go
+  s_cf9d9173bc809e::t_bc03160880bf7f 111-113
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "5da23c9238539220a51b71b62ab022491316b1bc",
+  "prompts": {},
+  "sessions": {
+    "s_cf9d9173bc809e": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ffb3dcf68ffe2yXnXm1VRyTmFk",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Vasilii Alferov <vasilii@cloudflare.com>"
+    }
+  }
+}
