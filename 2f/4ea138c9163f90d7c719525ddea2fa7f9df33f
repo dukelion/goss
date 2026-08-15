@@ -1,0 +1,29 @@
+cmd/goss/subprocess_test.go
+  s_cf9d9173bc809e::t_67d5b4d940cc19 149-201
+cmd/goss/goss.go
+  s_cf9d9173bc809e::t_f9c3043756c55e 90
+logging_invariants_test.go
+  s_cf9d9173bc809e::t_288046f6e730e6 1-14,19-32,34-51,53-61,63-66,70,73-78,80-83,87-88,92-100,102-107,111-137,139,141-147,151,155-156,158-160,171,174-177,180-182,204-206,210-236,240,242-250,252,254-257,260,262,264-265
+  s_cf9d9173bc809e::t_c36409a11d80fb 15-18,33,52,62,67-69,71-72,79,84-86,89-91,101,108-110,138,140,148-150,152-154,157,161-170,172-173,178-179,183-203,207-209,237-239,241,251,253,258-259,261,263
+silence_test.go
+  s_cf9d9173bc809e::t_fc08fa672883ad 1-23,30-33,35-41,43-54,56-66,69-82,85-89,93-111,113-138,140-158,160-184,186-218
+  s_cf9d9173bc809e::t_04ec3e3f61943d 24-29,34,42,55,67-68,83-84,90-92,112,139,159,185
+go.mod
+  s_cf9d9173bc809e::t_b30358d6a40490 6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "2f4ea138c9163f90d7c719525ddea2fa7f9df33f",
+  "prompts": {},
+  "sessions": {
+    "s_cf9d9173bc809e": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ffb3dcf68ffe2yXnXm1VRyTmFk",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Vasilii Alferov <vasilii@cloudflare.com>"
+    }
+  }
+}
