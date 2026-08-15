@@ -1,0 +1,35 @@
+serve_test.go
+  s_cf9d9173bc809e::t_f1f8e9b0cf8fd9 44,46,50,64,158,160,164,180,190-192,197,209-212,217-219,226-227,235-237,242-244,250,261-264,272-274,284-285,295-296,307-309,313-316
+  s_cf9d9173bc809e::t_39298da44d2f70 317-318
+duplicate_reporting_test.go
+  s_cf9d9173bc809e::t_f1f8e9b0cf8fd9 72
+empty_config_test.go
+  s_cf9d9173bc809e::t_f1f8e9b0cf8fd9 109
+logs_test.go
+  s_cf9d9173bc809e::t_f1f8e9b0cf8fd9 12-15
+logcapture_test.go
+  s_cf9d9173bc809e::t_f1f8e9b0cf8fd9 1-90
+serve_logging_test.go
+  s_cf9d9173bc809e::t_f99421166bb9a9 16,164,200-201
+  s_cf9d9173bc809e::t_f1f8e9b0cf8fd9 1-15,17-163,165-199,202-229
+serve.go
+  s_cf9d9173bc809e::t_f1f8e9b0cf8fd9 5,7,26,34-56,74-75,78,80,95,107,113-114,117-120,122,125,128,133,136,161
+serve_subprocess_test.go
+  s_cf9d9173bc809e::t_f1f8e9b0cf8fd9 1-134
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "bb3fc53327273b85c1f04139f975042297d8c694",
+  "prompts": {},
+  "sessions": {
+    "s_cf9d9173bc809e": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ffb3dcf68ffe2yXnXm1VRyTmFk",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Vasilii Alferov <vasilii@cloudflare.com>"
+    }
+  }
+}
