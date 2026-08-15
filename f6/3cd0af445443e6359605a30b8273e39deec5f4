@@ -1,0 +1,34 @@
+cmd/goss/logging_test.go
+  s_cf9d9173bc809e::t_cbc364fe66fbc8 112-114
+cmd/goss/flags_test.go
+  s_cf9d9173bc809e::t_cbc364fe66fbc8 1-120
+docs/logging.md
+  s_cf9d9173bc809e::t_cbc364fe66fbc8 1-179
+docs_test.go
+  s_cf9d9173bc809e::t_cbc364fe66fbc8 1-101
+docs/cli.md
+  s_cf9d9173bc809e::t_cbc364fe66fbc8 66-69,83-84
+  s_cf9d9173bc809e::t_b085be2eae982d 85
+docs/migrations.md
+  s_cf9d9173bc809e::t_cbc364fe66fbc8 3-15
+.golangci.yaml
+  s_cf9d9173bc809e::t_cbc364fe66fbc8 7,24-40,53-59
+seams_test.go
+  s_cf9d9173bc809e::t_cbc364fe66fbc8 1-168
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "f63cd0af445443e6359605a30b8273e39deec5f4",
+  "prompts": {},
+  "sessions": {
+    "s_cf9d9173bc809e": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ffb3dcf68ffe2yXnXm1VRyTmFk",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Vasilii Alferov <vasilii@cloudflare.com>"
+    }
+  }
+}
