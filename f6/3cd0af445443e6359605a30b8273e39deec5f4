@@ -1,20 +1,36 @@
 cmd/goss/logging_test.go
   s_cf9d9173bc809e::t_cbc364fe66fbc8 112-114
+  s_cf9d9173bc809e::t_bc03160880bf7f 112-114
 cmd/goss/flags_test.go
   s_cf9d9173bc809e::t_cbc364fe66fbc8 1-120
+  s_cf9d9173bc809e::t_f82be06ebff37a 1-13,15-19,43-44,48-120
+  s_cf9d9173bc809e::t_1dce5f2d3889b9 21-42
 docs/logging.md
   s_cf9d9173bc809e::t_cbc364fe66fbc8 1-179
+  s_cf9d9173bc809e::t_a76817240fcd6c 1-24,26-179
+  s_cf9d9173bc809e::t_c741ac73a8bdf5 25
 docs_test.go
   s_cf9d9173bc809e::t_cbc364fe66fbc8 1-101
+  s_cf9d9173bc809e::t_a0d415d1afca1b 1-10,14-19,21-60,62-80,86-101
 docs/cli.md
   s_cf9d9173bc809e::t_cbc364fe66fbc8 66-69,83-84
   s_cf9d9173bc809e::t_b085be2eae982d 85
+  s_cf9d9173bc809e::t_0dfe266b2ce14e 66-69,83-84
+  s_cf9d9173bc809e::t_76736b438d6645 85
 docs/migrations.md
   s_cf9d9173bc809e::t_cbc364fe66fbc8 3-15
+  s_cf9d9173bc809e::t_16f2e3b66fd876 3-15
 .golangci.yaml
   s_cf9d9173bc809e::t_cbc364fe66fbc8 7,24-40,53-59
+  s_cf9d9173bc809e::t_d77049fe1d8666 7
+  s_cf9d9173bc809e::t_bc03160880bf7f 53-59
+  s_cf9d9173bc809e::t_d8f5d16f0dd417 24-40
 seams_test.go
   s_cf9d9173bc809e::t_cbc364fe66fbc8 1-168
+  s_cf9d9173bc809e::t_2a842be4276317 70-72,76-77,94-96
+  s_cf9d9173bc809e::t_2b0e81f721074c 1-10,13-24,39-69,73-75,78-93,97-100,102-126,128-168
+  s_cf9d9173bc809e::t_ecb320d1207769 25-31
+  s_cf9d9173bc809e::t_8145413af0dad7 32-38
 ---
 {
   "schema_version": "authorship/3.0.0",
