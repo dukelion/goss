@@ -1,0 +1,21 @@
+util/logging_test.go
+  s_cf9d9173bc809e::t_6829e836af4513 1-261
+util/logging.go
+  s_cf9d9173bc809e::t_6829e836af4513 1-93
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "4bd98ae123d5ada72244b391849679e5f338ba83",
+  "prompts": {},
+  "sessions": {
+    "s_cf9d9173bc809e": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ffb3dcf68ffe2yXnXm1VRyTmFk",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Vasilii Alferov <vasilii@cloudflare.com>"
+    }
+  }
+}
