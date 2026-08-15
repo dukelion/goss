@@ -1,12 +1,18 @@
 util/logger_config_test.go
   s_cf9d9173bc809e::t_4fe148943f865a 1-70
+  s_cf9d9173bc809e::t_abeb238e659436 1-10,12-53,55-70
 system/system.go
   s_cf9d9173bc809e::t_4fe148943f865a 6,39,63-86,103-105
   s_cf9d9173bc809e::t_2649bd5d0ddf4c 106
+  s_cf9d9173bc809e::t_5c9a24456b319c 6,39,63-86,103-105
+  s_cf9d9173bc809e::t_469140a7d8dc5a 106
 util/config.go
   s_cf9d9173bc809e::t_4fe148943f865a 7,25-40,252-260,271-273
+  s_cf9d9173bc809e::t_faea7ab56341a9 7,25-40,252-260,271-273
 system/options_test.go
   s_cf9d9173bc809e::t_4fe148943f865a 1-65
+  s_cf9d9173bc809e::t_5c9a24456b319c 35-37
+  s_cf9d9173bc809e::t_07e0ab9b0ad56e 1-10,12-27,29-34,38-65
 ---
 {
   "schema_version": "authorship/3.0.0",
