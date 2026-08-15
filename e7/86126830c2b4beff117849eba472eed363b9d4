@@ -1,0 +1,31 @@
+cmd/goss/goss.go
+  s_cf9d9173bc809e::t_236e1e50e6c698 90
+cmd/goss/subprocess_test.go
+  s_cf9d9173bc809e::t_236e1e50e6c698 149-202
+go.mod
+  s_cf9d9173bc809e::t_236e1e50e6c698 6
+logging_invariants_test.go
+  s_cf9d9173bc809e::t_e410a594473e20 72-75,95-97,113-116,154-157,185-187,215-216,244-246
+  s_cf9d9173bc809e::t_236e1e50e6c698 1-71,76-94,98-112,117-153,158-184,188-214,217-243,247-272
+serve_matrix_test.go
+  s_cf9d9173bc809e::t_236e1e50e6c698 16-20
+silence_test.go
+  s_cf9d9173bc809e::t_236e1e50e6c698 1-104,107-133,137-150,156-178,182-216
+  s_cf9d9173bc809e::t_e410a594473e20 105-106,134-136,151-155,179-181
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "e786126830c2b4beff117849eba472eed363b9d4",
+  "prompts": {},
+  "sessions": {
+    "s_cf9d9173bc809e": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ffb3dcf68ffe2yXnXm1VRyTmFk",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Vasilii Alferov <vasilii@cloudflare.com>"
+    }
+  }
+}
