@@ -1,0 +1,27 @@
+util/logger_config_test.go
+  s_cf9d9173bc809e::t_abeb238e659436 1-70
+system/system.go
+  s_cf9d9173bc809e::t_5c9a24456b319c 6,39,63-86,103-105
+  s_cf9d9173bc809e::t_469140a7d8dc5a 106
+util/config.go
+  s_cf9d9173bc809e::t_faea7ab56341a9 7,25-40,252-260,271-273
+system/options_test.go
+  s_cf9d9173bc809e::t_5c9a24456b319c 35-37
+  s_cf9d9173bc809e::t_07e0ab9b0ad56e 1-34,38-65
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "b5f359690613d4127b04b0226f9080bc1500542f",
+  "prompts": {},
+  "sessions": {
+    "s_cf9d9173bc809e": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ffb3dcf68ffe2yXnXm1VRyTmFk",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Vasilii Alferov <vasilii@cloudflare.com>"
+    }
+  }
+}
