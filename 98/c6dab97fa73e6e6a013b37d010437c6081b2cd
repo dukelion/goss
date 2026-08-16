@@ -1,0 +1,49 @@
+docs/logging.md
+  s_cf9d9173bc809e::t_c741ac73a8bdf5 25
+  s_cf9d9173bc809e::t_44039573fd82d0 38,49-51
+  s_cf9d9173bc809e::t_a76817240fcd6c 1-24,26-37,39-48,52-181
+docs/migrations.md
+  s_cf9d9173bc809e::t_16f2e3b66fd876 3-15
+cmd/goss/flags_test.go
+  s_cf9d9173bc809e::t_f82be06ebff37a 1-13,16-18,43-44,48-120
+  s_cf9d9173bc809e::t_6f9fecb8a1cb20 36
+  s_cf9d9173bc809e::t_1dce5f2d3889b9 20-35,37-42
+  s_cf9d9173bc809e::t_e410a594473e20 14-15
+  s_cf9d9173bc809e::t_77ea2c4d8e4a12 19,45-47
+.golangci.yaml
+  s_cf9d9173bc809e::t_d77049fe1d8666 7
+  s_cf9d9173bc809e::t_d8f5d16f0dd417 24-40
+  s_cf9d9173bc809e::t_bc03160880bf7f 53-59
+seams_test.go
+  s_cf9d9173bc809e::t_2a842be4276317 69-71,75-76,93-95
+  s_cf9d9173bc809e::t_77ea2c4d8e4a12 11,100
+  s_cf9d9173bc809e::t_8145413af0dad7 31-37
+  s_cf9d9173bc809e::t_2b0e81f721074c 1-10,16-23,38-68,72-74,77-92,96-99,101-124,127-167
+  s_cf9d9173bc809e::t_ecb320d1207769 24-30
+  s_cf9d9173bc809e::t_e410a594473e20 12-15,125-126
+docs/cli.md
+  s_cf9d9173bc809e::t_0dfe266b2ce14e 66-69,83-84
+  s_cf9d9173bc809e::t_76736b438d6645 85
+cmd/goss/logging_test.go
+  s_cf9d9173bc809e::t_bc03160880bf7f 113-115
+docs_test.go
+  s_cf9d9173bc809e::t_a0d415d1afca1b 1-10,16-20,22-61,65-81,87-102
+  s_cf9d9173bc809e::t_e410a594473e20 13-15,62-64
+  s_cf9d9173bc809e::t_77ea2c4d8e4a12 11-12,21,82-86
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "98c6dab97fa73e6e6a013b37d010437c6081b2cd",
+  "prompts": {},
+  "sessions": {
+    "s_cf9d9173bc809e": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ffb3dcf68ffe2yXnXm1VRyTmFk",
+        "model": "claude-opus-5"
+      },
+      "human_author": null
+    }
+  }
+}
