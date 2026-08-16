@@ -1,0 +1,34 @@
+util/logging_test.go
+  s_cf9d9173bc809e::t_e410a594473e20 45-171
+  s_cf9d9173bc809e::t_a32fb24ebc081f 42-44
+  s_cf9d9173bc809e::t_0674470c7421c6 172-174
+  s_cf9d9173bc809e::t_f724783f15f29f 193-199
+  s_cf9d9173bc809e::t_137758f242b021 1-44,48-126,130-137,139,141,143-149,151,153,155-169,172-183,186-192,200-231,233-261
+  s_cf9d9173bc809e::t_220c7cbefa99f5 138,140,142,150,152,154
+util/logging.go
+  s_cf9d9173bc809e::t_030d6c0550bc49 1-93
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "c38e5fdd388a73472009c74d594e986ecd85c8b5",
+  "prompts": {},
+  "sessions": {
+    "s_34b7386a934e51": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_031bfb914ffeofqfslGeoZJ0QF",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Vasilii Alferov <vasilii@cloudflare.com>"
+    },
+    "s_cf9d9173bc809e": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ffb3dcf68ffe2yXnXm1VRyTmFk",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Vasilii Alferov <vasilii@cloudflare.com>"
+    }
+  }
+}

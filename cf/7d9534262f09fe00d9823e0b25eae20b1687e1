@@ -1,0 +1,33 @@
+system/options_test.go
+  s_cf9d9173bc809e::t_e410a594473e20 11-30
+  s_cf9d9173bc809e::t_f7fb9f88ae6510 1-10,31-65
+  s_cf9d9173bc809e::t_5c9a24456b319c 35-37
+  s_cf9d9173bc809e::t_07e0ab9b0ad56e 1-10,14-27,31-34,38-65
+util/logger_config_test.go
+  s_cf9d9173bc809e::t_e410a594473e20 54-56
+  s_cf9d9173bc809e::t_e01573f683cf94 1-53,57-70
+  s_cf9d9173bc809e::t_abeb238e659436 1-10,12-53,57-70
+system/system.go
+  s_cf9d9173bc809e::t_38b52bbbadbd4b 6,41,65-88,106-109
+  s_cf9d9173bc809e::t_5c9a24456b319c 6,41,65-88,106-108
+  s_cf9d9173bc809e::t_469140a7d8dc5a 109
+util/config.go
+  s_cf9d9173bc809e::t_573fcc59261c13 7,25-40,252-260,271-273
+  s_cf9d9173bc809e::t_faea7ab56341a9 7,25-40,252-260,271-273
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "cf7d9534262f09fe00d9823e0b25eae20b1687e1",
+  "prompts": {},
+  "sessions": {
+    "s_cf9d9173bc809e": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ffb3dcf68ffe2yXnXm1VRyTmFk",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Vasilii Alferov <vasilii@cloudflare.com>"
+    }
+  }
+}
